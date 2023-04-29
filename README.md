@@ -6,7 +6,7 @@ Record of solving the problems in ![Leetcode](https://leetcode.cn/problemset/all
 1. [Binary Tree](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Binary%20tree)
 2. [Sort Algorithm](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Sort)
 
-
+Feel free to open an ![issue](https://github.com/Raozey/The-Mistery-of-Algorithm/issues/new) to ask anything
 
 Refernce:
 Most code originate from :![www.programmercarl.com](https://www.programmercarl.com/)
