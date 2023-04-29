@@ -14,6 +14,7 @@ int maxDepth(TreeNode* root){
     return max(leftDepth, rightDepth) + 1;
 }
 
+int depth = 0;
 void reversalMaxDepth(TreeNode* root, int index){
     depth = index > depth ? index : depth;
     // 剪枝操作，可以不要
@@ -32,7 +33,6 @@ void reversalMaxDepth(TreeNode* root, int index){
     }
 }
 
-int depth = 0;
 
 int main(){
     /**
