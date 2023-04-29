@@ -23,6 +23,7 @@ TreeNode* consbuildTreetructMaximumBinaryTree(vector<int>& inorder, vector<int>&
 int main(){
     /**
      * 从中序与后序遍历序列构造二叉树
+     * 用后序的最后一个节点取划分中序
      * inorder [9,3,15,20,7]
      * postorder [9,15,7,20,3]
      *      3     
