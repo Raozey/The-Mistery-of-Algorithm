@@ -21,7 +21,7 @@ bool compare(TreeNode* left, TreeNode* right){
 
 
 bool isSymmetric(TreeNode* root) {
-    // 递归判断是否为堆成
+    // 递归判断是否为对称
     // if(root == nullptr) return true;
     // return compare(root->left, root->right);
 
