@@ -22,6 +22,7 @@ bool judgeBalance(TreeNode* root){
 int main(){
     /**
      * 构造一棵二叉树
+     * 判断这棵二叉树是否为平衡二叉树
      *      1
      *    /   
      *   2      
