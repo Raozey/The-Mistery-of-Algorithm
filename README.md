@@ -8,6 +8,7 @@ Record of solving the problems in [Leetcode](https://leetcode.cn/problemset/all/
 3. [Array](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Array)
 4. [Hash Table](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Hash%20table)
 5. [String](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/String)
+6. [List](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/List)
 
 Feel free to open an [issue](https://github.com/Raozey/The-Mistery-of-Algorithm/issues/new) to ask anything
 
