@@ -1,7 +1,8 @@
 # The-Mistery-of-Algorithm
-Wittern in Cpp
 
-Record of solving the problems in [Leetcode](https://leetcode.cn/problemset/all/)
+Record of learning algorithem & solving the problems in [Leetcode](https://leetcode.cn/problemset/all/)
+All code is tested and runnable locally
+with g++ 8.1.0, Built by MinGW-W64 project
 
 1. [Binary Tree](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Binary%20tree)
 2. [Sort Algorithm](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Sort)
