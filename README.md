@@ -10,7 +10,7 @@ Record of solving the problems in [Leetcode](https://leetcode.cn/problemset/all/
 
 Feel free to open an [issue](https://github.com/Raozey/The-Mistery-of-Algorithm/issues/new) to ask anything
 
-Refernce:
+Reference:
 Most code originate from :[www.programmercarl.com](https://www.programmercarl.com/)
 
 
