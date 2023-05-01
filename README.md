@@ -1,6 +1,7 @@
 # The-Mistery-of-Algorithm
 
 Record of learning algorithem & solving the problems in [Leetcode](https://leetcode.cn/problemset/all/)
+
 All code is tested and runnable locally
 with g++ 8.1.0, Built by MinGW-W64 project
 
