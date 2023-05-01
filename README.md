@@ -11,6 +11,7 @@ All code is tested and runnable locally with g++ v8.1.0, built by MinGW-W64 proj
 5. [String](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/String)
 6. [List](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/List)
 7. [Stack & Queue](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Stack%20&%20Queue)
+8. [BackTracking](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/BackTracking)
 
 Feel free to open an [issue](https://github.com/Raozey/The-Mistery-of-Algorithm/issues/new) to ask anything
 
