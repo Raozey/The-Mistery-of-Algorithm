@@ -1,6 +1,8 @@
 # The-Mistery-of-Algorithm
 
-Record of learning algorithm & solving the problems in [Leetcode](https://leetcode.cn/problemset/all/)
+Record of learning algorithm & solving the problems.
+Trying to unravel the *mistery of algorithm* ! 
+
 
 All code is tested and runnable locally with g++ v8.1.0, built by MinGW-W64 project
 
@@ -12,11 +14,15 @@ All code is tested and runnable locally with g++ v8.1.0, built by MinGW-W64 proj
 6. [List](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/List)
 7. [Stack & Queue](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Stack%20&%20Queue)
 8. [BackTracking](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/BackTracking)
+9. [Dynamic Program](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Dynamic%20Program)
+
 
 Feel free to open an [issue](https://github.com/Raozey/The-Mistery-of-Algorithm/issues/new) to ask anything
 
 Reference:
-Most code originate from : [www.programmercarl.com](https://www.programmercarl.com/)
+1. Most code originate from : [www.programmercarl.com](https://www.programmercarl.com/)
+2. The serial number of problems is consistent with [www.leetcode.cn](https://leetcode.cn/)
+3. Also some problem and solution comes from [www.nowcoder.com](https://www.nowcoder.com/exam/oj)
 
 
 
