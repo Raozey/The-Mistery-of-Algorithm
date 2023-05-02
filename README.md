@@ -1,8 +1,7 @@
 # The-Mistery-of-Algorithm
 
-Record of learning algorithm & solving the problems.
-Trying to unravel the **mistery of algorithm** ! 
-
+Record of learning algorithm & solving the problems, trying to unravel the **mistery of algorithm** ! 
+ 
 
 All code is tested and runnable locally with g++ v8.1.0, built by MinGW-W64 project
 
