@@ -1,7 +1,7 @@
 # The-Mistery-of-Algorithm
 
 Record of learning algorithm & solving the problems.
-Trying to unravel the *mistery of algorithm* ! 
+Trying to unravel the **mistery of algorithm** ! 
 
 
 All code is tested and runnable locally with g++ v8.1.0, built by MinGW-W64 project
@@ -17,7 +17,7 @@ All code is tested and runnable locally with g++ v8.1.0, built by MinGW-W64 proj
 9. [Dynamic Program](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Dynamic%20Program)
 
 
-Feel free to open an [issue](https://github.com/Raozey/The-Mistery-of-Algorithm/issues/new) to ask anything
+Feel free to open an [issue](https://github.com/Raozey/The-Mistery-of-Algorithm/issues/new) to ask anything!
 
 Reference:
 1. Most code originate from : [www.programmercarl.com](https://www.programmercarl.com/)
