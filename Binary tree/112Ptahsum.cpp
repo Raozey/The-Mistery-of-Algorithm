@@ -16,6 +16,20 @@ void traversal(TreeNode* root, int targetSum){
     if(root->right) traversal(root->right, targetSum - root->val);
 }
 
+
+//踩坑记：当你想要递归到叶子节点的下一个节点（空节点），需要在root == nullptr后返回
+void traversal(TreeNode* root, int targetSum){
+    if(root == nullptr) {
+       if(targetSum == 0) {
+            result = true;
+            return;
+       } 
+       return;
+    }
+    traversal(root->left, targetSum - root->val);
+    traversal(root->right, targetSum - root->val);
+}
+
 bool traversalWithReturn(TreeNode* cur, int count){
     if(!cur->left && !cur->right && count == 0) return true;
     if (!cur->left && !cur->right) return false;
