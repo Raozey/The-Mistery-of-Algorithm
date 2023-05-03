@@ -37,6 +37,19 @@ bool  isValidBST(TreeNode* root){
     return left && right;
 }
 
+
+// 也可以记录前一个节点
+TreeNode* pre = nullptr; 
+bool isValidBST(TreeNode* root) {
+    if(root == nullptr) return true;
+    if(pre != nullptr && pre->val >= root->val) return false;
+    bool left = isValidBST(root->left);
+    pre = root;
+    bool right = isValidBST(root->right);
+    return left && right;
+}
+
+
 int main(){
     /**
      * 构造一棵二叉搜索树
