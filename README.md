@@ -15,7 +15,10 @@ All code is tested and runnable locally with g++ v8.1.0, built by MinGW-W64 proj
 7. [Stack & Queue](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Stack%20&%20Queue)
 8. [BackTracking](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/BackTracking)
 9. [Dynamic Program](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Dynamic%20Program)
-10.[Bag Problem](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Bag%20Problem)
+10. [Bag Problem](https://github.com/Raozey/The-Mistery-of-Algorithm/tree/main/Bag%20Problem)
+
+
+Note that I also uploaded my [note](https://github.com/Raozey/The-Mistery-of-Algorithm/blob/main/%E7%AE%97%E6%B3%95%E8%AE%B0%E5%BD%95.docx) of recording while I solve the problems.
 
 
 Feel free to open an [issue](https://github.com/Raozey/The-Mistery-of-Algorithm/issues/new) to ask anything!
